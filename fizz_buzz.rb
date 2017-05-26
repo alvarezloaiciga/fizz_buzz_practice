@@ -4,6 +4,6 @@ class FizzBuzz
   end
 
   def run
-    puts @limit
+    puts @end_value
   end
 end
