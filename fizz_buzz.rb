@@ -1,6 +1,6 @@
 class FizzBuzz
-  def initialize(limit)
-    @limit = limit
+  def initialize(end_value)
+    @end_value = end_value
   end
 
   def run
